@@ -2,7 +2,7 @@
 
 This a crate to install and run public-dns-if-no-nameserver via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/public-dns-if-no-nameserver-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
